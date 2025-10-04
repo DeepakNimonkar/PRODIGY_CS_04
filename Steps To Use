@@ -1,3 +1,5 @@
 Download or clone the repository.
 
 Run the script: python3 KeyLogger.py
+
+The logs will automatically save in key_log.txt
